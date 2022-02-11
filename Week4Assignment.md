@@ -15,29 +15,29 @@
 
 * Key Design Elements – To Deliver An Exemplary Experience 	
 
-* Looking Ahead To The Bot Future 
+* Conclusion- Looking Ahead To The Bot Future 
 	
 
 ## Executive Summary
 
 
->“The use of chatbots especially when you are dealing with customers by the thousands and may be millions, becomes an important part of your offering, your strategy.”
+>“The use of chatbots especially, when you are dealing with customers by the thousands and may be millions, becomes an important part of your offering, your strategy.”
 **- PAUL GREENBERG**
 
 **Chatbots** are taking over the IT industry. This technology, which helps individuals to communicate with computers in their original language through a computing device - is getting popular in a variety of contexts, particularly **customer service**.  The growth of messaging apps, the expansion of the app market, advancements in **artificial intelligence (AI)** and **advanced analytics**, a passion in conversational user interfaces, and a wider reach of automation are all pushing the chatbots trend.  Besides the interest in chatbot being fostered by these reasons, the present excitement around this subject may not be sustainable in the long run without a stronger commercial justification and better near-term results.
 
 We are betting you have communicated with the chatbot at some point, whether you notice or not. If you've a **customer support query** and used the **virtual assistant** or the less apparent chat window, there's a good chance you weren't speaking with a person. Nevertheless, after asked the query, something that responded with offering you a question for understanding with what you desired.  
 
-One hurdle to a chatbot's long-term viability is developers' desire to enable more genuine and **human-like conversations** with customers. Given that AI has yet to deliver on the promise of **natural language processing (NLP)**. Because bots still utilize retrieval-based deep-learning models rather than generative ones. Another concern is that the curiosity of chatbots will wear off with time. When this happens, users' main concern will be how successfully the bot can complete tasks.
+One hurdle to a chatbot's long-term viability is developers' desire to enable more genuine and **human-like conversations** with customers. Given that AI has yet to deliver on the promise of **natural language processing (NLP)** as bots still utilize **retrieval-based deep-learning models** rather than generative ones. Another concern is that the curiosity of chatbots will wear off with time, when this happens, users' main concern will be how successfully the bot can complete the respective tasks.
 
-It is recommended that keeping the design basic and the ***"conversation"*** to a minimum make chatbots more useful. Experts suggest building utility bots that specialize in certain activities, offer user suggestions, and excel at assisting users in doing those chores.
-
->>***Bots will progress over time from being systems that execute routine and repetitive activities to those who learn and can provide Personalised interactions with suggestions. This will be achievable because to its capacity to swiftly access, interpret, and respond to data utilizing neural networks and machine learning technology.***
+It is recommended that keeping the design basic and the ***"Conversation"*** to a minimum will make chatbots more useful. Experts suggest building utility bots that specialize in certain activities, offer user suggestions, and excel at assisting users in doing those chores.
 
 **Self-learning algorithms** and **graph databases** can aid robots in comprehending bigger data representations by reducing confusion in what users are referring to. It is critical to dynamically update these semantic networks, which record data kinds and their connections, to accelerate and optimize retrieval.
 
 This article examines rise of chatbot, what is needed to sustain interest in this technology for better customer experience and how they will evolve. Furthermore, we deconstruct the design elements needed to deliver an exemplary experience for tomorrow’s chatbot users.
 
+
+>>***Bots will progress over time from being systems that execute routine and repetitive activities to those who learn and can provide Personalised interactions with suggestions. This will be achievable because to its capacity to swiftly access, interpret, and respond to data utilizing neural networks and machine learning technology.***
 
 ## ChatBots - The Imperative Conversation
 
@@ -63,14 +63,14 @@ As bots spread from companies like **Facebook, Amazon, Slack, Google, WeChat** a
 ## The Rise of Chat Bots – Improving The Customer Experience
 
 
-With the digital revolution, there is no doubt that chatbots are moving mainstream. The movement is believed to have started as early as 1950 with Alan Turing’s intelligent machine, followed in 1966 by ELIZA, an intelligent agent that could conduct near-convincing human conversations. Even though advances in the technology continued throughout the ‘70s and ‘80s, chatbots did not started truly take off until recently after the invention of AI Powered Chatbots.
+With the digital revolution, there is no doubt that chatbots are moving mainstream. The movement is believed to have started as early as 1950 with Alan Turing’s intelligent machine, followed in 1966 by ELIZA, an intelligent agent that could conduct near-convincing human conversations. Even though advances in the technology continued throughout the ‘70s and ‘80s, chatbots did not started truly take off until recently after the invention of **AI Powered One**.
 
 
 **The rise of bots has attributed to several customer care forces working in parallel:**
  	
 * **Focus on the customer experience:** In recent years, businesses have been trying innovative methods to improve the customer experience and cut costs by servicing clients over the phone. Calling the contact centre for simple activities that can be completed with minimum help is inconvenient for many clients. While firms have worked to make this process more efficient, it still takes time. Chatbots can ensure seamless assistance available at any time of day.
 
-* **Facilitates hyper- personalization:** Many CRM , customer data solutions now include **Conversational AI and machine learning (CDP)**. Chatbots has been incorporated into CRM platforms such as **C2CRM, Salesforce Einstein, and Zoho** provides capabilities such as real-time decisioning, predictive analysis, conversational assistants, which enable sales teams better understand and engage customers.
+* **Facilitates hyper- personalization:** Many CRM , customer data solutions platforms such as **C2CRM, Salesforce Einstein, and Zoho** now include **Conversational AI and machine learning (CDP)** chatbots , as they provide facilitates several personalization such as real-time decisioning, predictive analysis, conversational assistants, which enable sales teams better understand and engage customers.
 Furthermore, these AI-enhanced platforms offers the real-time decisioning and predictive analysis allowing users to take the **"NEXT BEST"** action based on the present interaction, purchase and browsing history, past questions, and demographics.
 
 * **Enhances Conversational Marketing:** Conversational AI chatbots improves conversational marketing by employing one of the most popular channels among customers: chat. They automate the data collection process, give product and service information, and assist in the conversion of leads into customers. 
@@ -147,7 +147,7 @@ The design here is slightly tricky. Because repeatedly asking users to rephrase 
 >>***“Because repeatedly asking users to rephrase a question or try again would be a sure path to frustration, the chatbot needs to demonstrate a partial understanding to reveal which part of the question it doesn’t understand”***
 
 
-## Looking Ahead To The Bot Future
+## Conclusion - Looking Ahead To The Bot Future
 
 >>*Today, getting into the chatbot business is rather simple. Businesses may easily establish a community following by designing and deploying a basic chatbot. For example, **Google Assistant** provides both the tools and the market for anyone wishing to build and deploy a chatbot.* 
 
