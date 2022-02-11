@@ -24,7 +24,12 @@
 >“The use of chatbots especially, when you are dealing with customers by the thousands and may be millions, becomes an important part of your offering, your strategy.”
 **- PAUL GREENBERG**
 
-**Chatbots** are taking over the IT industry. This technology, which helps individuals to communicate with computers in their original language through a computing device - is getting popular in a variety of contexts, particularly **customer service**.  The growth of messaging apps, the expansion of the app market, advancements in **artificial intelligence (AI)** and **advanced analytics**, a passion in conversational user interfaces, and a wider reach of automation are all pushing the chatbots trend.  Besides the interest in chatbot being fostered by these reasons, the present excitement around this subject may not be sustainable in the long run without a stronger commercial justification and better near-term results.
+
+[Chatbots](https://www.ibm.com/cloud/learn/chatbots-explained) a computer based program can make it easy for users to find the information they need by responding to their questions and requests—through text input, audio input, or both—without the need for human intervention.
+
+
+Especially when it comes to the IT industry it plays the major act. This technology, helps individuals to communicate with computers in their original language through a computing device - is getting popular in a variety of contexts, particularly **customer service**.  The growth of messaging apps, the expansion of the app market, advancements in **artificial intelligence (AI)** and **advanced analytics**, a passion in conversational user interfaces, and a wider reach of automation are all pushing the chatbots trend.  Besides the interest in chatbot being fostered by these reasons, the present excitement around this subject may not be sustainable in the long run without a stronger commercial justification and better near-term results.
+
 
 We are betting you have communicated with the chatbot at some point, whether you notice or not. If you've a **customer support query** and used the **virtual assistant** or the less apparent chat window, there's a good chance you weren't speaking with a person. Nevertheless, after asked the query, something that responded with offering you a question for understanding with what you desired.  
 
@@ -49,7 +54,7 @@ This article examines rise of chatbot, what is needed to sustain interest in thi
 ![image](https://user-images.githubusercontent.com/99115304/153452599-99ad41c8-9c4d-425e-8588-14b1838ec660.png)
 
 
-We are on the verge of change, and some experts, such as the World Economic Forum, predict that the mainstreaming of bots will usher in the next industrial revolution. Sometimes, We can see specialized chatbots are emerging day by day to serve specific user demands as the chatbot ecosystem develops.
+We are on the verge of change and some experts, such as the [World Economic Forum](https://www.weforum.org/agenda/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond/), predict that the mainstreaming of bots will usher in the next industrial revolution. Sometimes, We can see specialized chatbots are emerging day by day to serve specific user demands as the chatbot ecosystem develops.
 
 
 **Here are a few examples of how chatbots are used:**
@@ -67,19 +72,19 @@ We are on the verge of change, and some experts, such as the World Economic Foru
 * **Entertainment:** Bots, such as Google's Allo, may provide entertainment by providing random quotations, humorous videos, and jokes. 
 
 
-As bots spread from companies like **Facebook, Amazon, Slack, Google, WeChat** and others, it's critical to study the phenomenon's rise. This will reveal whether or not bots revolution will continue in its current form or evolve into something new.
+As bots spread from companies like **Facebook, Amazon, Apple Siri, Google, WeChat** and others, it's critical to study the phenomenon's rise. This will reveal whether or not bots revolution will continue in its current form or evolve into something new.
 
 
 ## The Rise of Chat Bots – Improving The Customer Experience
 
 
-With the digital revolution, there is no doubt that chatbots are moving mainstream. The movement is believed to have started as early as 1950 with Alan Turing’s intelligent machine, followed in 1966 by ELIZA, an intelligent agent that could conduct near-convincing human conversations. Even though advances in the technology continued throughout the ‘70s and ‘80s, chatbots did not started truly take off until recently after the invention of **AI Powered One**.
+With the digital revolution, there is no doubt that chatbots are moving mainstream. The movement is believed to have started as early as 1950 with Alan Turing’s intelligent machine, followed in 1966 by ELIZA, an intelligent agent that could conduct near-convincing human conversations. Even though advances in the technology continued throughout the ‘70s and ‘80s, chatbots did not started truly take off until recently after the invention of **AI Powered One**. 
 
 
 **The rise of bots has attributed to several customer care forces working in parallel:**
  	
 
-* **Focus on the customer experience:** In recent years, businesses have been trying innovative methods to improve the customer experience and cut costs by servicing clients over the phone. Calling the contact centre for simple activities that can be completed with minimum help is inconvenient for many clients. While firms have worked to make this process more efficient, it still takes time. Chatbots can ensure seamless assistance available at any time of day.
+* **Focus on the customer experience:** In recent years, businesses have been trying innovative methods to improve the [customer experience](https://www.cmswire.com/customer-experience/4-ways-conversational-ai-is-improving-the-customer-experience/) and cut costs by servicing clients over the phone. Calling the contact centre for simple activities that can be completed with minimum help is inconvenient for many clients. While firms have worked to make this process more efficient, it still takes time. Chatbots can ensure seamless assistance available at any time of day.
 
 
 * **Facilitates hyper- personalization:** Many CRM , customer data solutions platforms such as **C2CRM, Salesforce Einstein, and Zoho** now include **Conversational AI and machine learning (CDP)** chatbots , as they provide facilitates several personalization such as real-time decisioning, predictive analysis, conversational assistants, which enable sales teams better understand and engage customers.
@@ -183,7 +188,7 @@ The design here is slightly tricky. Because repeatedly asking users to rephrase 
 ## Conclusion - Looking Ahead To The Bot Future
 
 
->>*Today, getting into the chatbot business is rather simple. Businesses may easily establish a community following by designing and deploying a basic chatbot. For example, **Google Assistant** provides both the tools and the market for anyone wishing to build and deploy a chatbot.* 
+>>*Today, getting into the chatbot business is rather simple. Businesses may easily establish a community following by designing and deploying a basic chatbot. For example, [Google Virtual Assistant](https://cloud.google.com/blog/products/ai-machine-learning/conversational-ai-drives-better-customer-experiences) provides both the tools and the market for anyone wishing to build and deploy a chatbot.* 
 
 
 Almost all the bots in use today are trying to live up to the hype and expectations surrounding them, in part with available technology advancements. The reason bots exist is that businesses want to reach people where they spend most of their time, namely messaging apps such as **Google Assistant, Siri and Alexa** etc. which are known for extraordinary capabilities.
