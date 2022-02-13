@@ -4,9 +4,9 @@
 
 * Executive Summary	
 
-* ChatBots – The Imperative	Conversation 
+* ChatBots – The Imperative Conversation 
 
-* The Rise Of Chat Bots – Improving The Customer Experience	
+* The Rise Of Chat Bots 	
 
 * The Recent Hype Is Inevitable 	
   * The ChatBots Value: A Better Customer Experience
@@ -91,7 +91,7 @@ As bots spread from companies like **Facebook, Amazon, Apple Siri, Google, WeCha
 
 
 
-## The Rise of Chat Bots – Improving The Customer Experience
+## The Rise of Chat Bots 
 
 
 
@@ -159,7 +159,7 @@ Chatbots are particularly beneficial for problems that are simple to understand,
 
 
 
-## The Chatbots Value: A Better Customer Experience
+## The Chatbots Value : A Better Customer Experience
 
 
 
